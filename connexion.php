@@ -1,1 +1,1 @@
-<?php echo 'Interface de connexion'; ?>
+<?php echo 'Espace clients'; ?>
